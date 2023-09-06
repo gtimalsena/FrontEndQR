@@ -21,8 +21,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/gtimalsena/FrontEndQR)
+- Live Site URL: (https://gtimalsena.github.io/FrontEndQR/)
 ## My process
 
 ### Built with
@@ -32,3 +32,7 @@ Mobile
 - Flexbox
 - Mobile-first workflow
 ### What I learned
+-HTML
+-CSS
+-Flex and how flex works
+
