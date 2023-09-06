@@ -14,8 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 ### Screenshot
-![](./screenshotdesk.jpg) Desktop
-![](./screenshotmobile.jpg) Mobile
+![](./designs/screenshotdesk.jpg) Desktop
+![](../designs/screenshotmobile.jpg) Mobile
 
 ### Links
 
